@@ -10,3 +10,8 @@ P2 - Interactive Billiard table simulation that allows the player to select and 
 P3 - Cybertruck Model with interactive lights and car materials. Key concepts: manipulation and creation of polygon mesh; Basic, Phong and Lambert mesh materials; Directional and Spot lights.
 
 P4 - Interactive golf field model. Key concepts: point light; multiple scenes; textures; orbit controls; skybox.
+
+Note P4: [check this page to run the code locally](https://threejs.org/docs/?q=how%20to#manual/en/introduction/How-to-run-things-locally)
+
+
+All of these projects were in cooperation with [@ADEMA06](https://github.com/ADEMA06) and [@MargaridaMoreira](https://github.com/MargaridaMoreira). 😄
