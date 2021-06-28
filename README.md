@@ -14,4 +14,4 @@ P4 - Interactive golf field model. Key concepts: point light; multiple scenes; t
 Note P4: [check this page to run the code locally](https://threejs.org/docs/?q=how%20to#manual/en/introduction/How-to-run-things-locally)
 
 
-All of these projects were in cooperation with [@ADEMA06](https://github.com/ADEMA06) and [@MargaridaMoreira](https://github.com/MargaridaMoreira). 😄
+All of these projects were in cooperation with [@Mokita-J](https://github.com/Mokita-J) and [@MargaridaMoreira](https://github.com/MargaridaMoreira). 😄
